@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Wed Mar 28 13:23:23 AEDT 2018
+2.base=C\:\\Users\\Tom\\AndroidStudioProjects\\MTGCardQuiz\\app\\build\\intermediates\\assets\\debug
+5.set=ASSET
+0.path=KLD.json
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Tom\\AndroidStudioProjects\\MTGCardQuiz\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=EMA.json
+4.base=C\:\\Users\\Tom\\AndroidStudioProjects\\MTGCardQuiz\\app\\build\\intermediates\\assets\\debug
+count=7
+5.baseType=DIRECTORY
+2.path=SOI.json
+5.base=C\:\\Users\\Tom\\AndroidStudioProjects\\MTGCardQuiz\\app\\build\\intermediates\\assets\\debug
+4.set=ASSET
+3.path=EMN.json
+6.base=C\:\\Users\\Tom\\AndroidStudioProjects\\MTGCardQuiz\\app\\build\\intermediates\\assets\\debug
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=BFZ.json
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=AER.json
+0.base=C\:\\Users\\Tom\\AndroidStudioProjects\\MTGCardQuiz\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=OGW.json
+1.base=C\:\\Users\\Tom\\AndroidStudioProjects\\MTGCardQuiz\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET

@@ -1,0 +1,4 @@
+#Wed Mar 28 13:23:33 AEDT 2018
+base.0=C\:\\Users\\Tom\\AndroidStudioProjects\\MTGCardQuiz\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

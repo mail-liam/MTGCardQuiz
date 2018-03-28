@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MTGCardQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="rules_flavor">Which card has the following %1$s?\n%2$s</string>
+    <string name="mana_cost">Which card has a mana cost of %1$s?</string>
+    <string name="power_toughness">Which card has %1$d %2$s?</string>
+    <string name="doublefaced">Which card is a %1$s card?</string>
+    <string name="subtypes">Which card is a %1$s?</string>
+</resources>
